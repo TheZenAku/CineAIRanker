@@ -1,0 +1,5 @@
+{
+  "name": "CineAI Ranker",
+  "description": "Um ranking dinâmico e moderno das melhores IAs gratuitas para criação de vídeos cinematográficos, atualizado em tempo real via Gemini Google Search.",
+  "requestFramePermissions": []
+}
